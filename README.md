@@ -20,4 +20,6 @@ Throughout this course, I will use this portfolio to share my original projects,
 
 ### Additional Portfolio Materials
 
-My code review video, enhancement narratives, and professional self-assessment will be added as I complete them.
+[Download my CS 499 Code Review Video (MP4)](https://github.com/snhustu34/snhustu34.github.io/releases/download/code-review/CS-499.SmallerFile.MilestoneOne.1.mp4)
+
+My enhancement narratives and professional self-assessment will be added as I complete them.
